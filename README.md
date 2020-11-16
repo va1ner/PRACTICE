@@ -1,2 +1,2 @@
-# PRACTIVE
+# PRACTICE
 imitating and learning
